@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm Ahmed Hammad
 
-<!--
-**ashammad99/ashammad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience in Laravel, PHP, and Web Development.
+I enjoy building practical systems and learning modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Bachelor’s degree in Software Engineering
+- 🌐 Experience building web applications using Laravel
+- 🛠 Interested in Backend Development and Cloud Systems
+- 💻 Open to IT and Software Engineering roles
+
+---
+
+## 🛠 Skills
+
+- PHP
+- Laravel
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- REST APIs
+- MVC Architecture
+
+---
+
+## 📂 Projects
+
+### Personal Expenses Management System
+Laravel-based application to manage personal income and expenses with categories and statistics.
+
+Features:
+- User authentication
+- Expense categories
+- Monthly reports
+- Dashboard statistics
+
+---
+
+### ChatGPT Integrated Code Assistant
+Laravel application that integrates AI to assist developers with code generation and explanations.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: (your link)
+- Email: (your email)
