@@ -8,6 +8,7 @@ I enjoy building practical systems and learning modern technologies.
 ## 🚀 About Me
 
 - 🎓 Bachelor’s degree in Software Engineering
+- 🎓 Diploma degree in Computer Networks and Internet
 - 🌐 Experience building web applications using Laravel
 - 🛠 Interested in Backend Development and Cloud Systems
 - 💻 Open to IT and Software Engineering roles
