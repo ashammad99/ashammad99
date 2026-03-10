@@ -4,8 +4,13 @@ Software Engineer with experience in Laravel, PHP, and Web Development.
 I enjoy building practical systems and learning modern technologies.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashammad99&show_icons=true)
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashammad99&show_icons=true&theme=default)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashammad99&layout=compact)
 ---
 ## 🚀 About Me
 
