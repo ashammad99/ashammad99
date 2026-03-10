@@ -6,7 +6,7 @@ I enjoy building practical systems and learning modern technologies.
 ---
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashammad99&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashammad99&show_icons=true)
 
 ## Top Languages
 
