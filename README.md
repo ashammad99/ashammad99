@@ -47,5 +47,5 @@ Laravel application that integrates AI to assist developers with code generation
 
 ## 📫 Contact
 
-- LinkedIn: (your link)
-- Email: (your email)
+- LinkedIn: [((https://www.linkedin.com/in/ahmed-hammad-461337177/))]
+- Email: (ashammad99@gmail.com)
